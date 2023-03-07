@@ -134,6 +134,7 @@ footer a {
     height: 30px;
     border-radius: 10px;
     border: solid thin rgb(117, 0, 0);
+    background-color: #300;
 }
 
 .center{
